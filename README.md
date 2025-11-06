@@ -7,13 +7,13 @@ It allows users to create a bank account, deposit money, withdraw funds, and vie
 
 💡 Features
 
-👤 Customer Account Creation — Enter name and initial balance.
+  Customer Account Creation — Enter name and initial balance.
 
-💰 Deposit Money — Add funds to your account securely.
+  Deposit Money — Add funds to your account securely.
 
-💸 Withdraw Money — Withdraw funds with balance validation.
+  Withdraw Money — Withdraw funds with balance validation.
 
-📊 Display Account Information — View current balance and customer details.
+  Display Account Information — View current balance and customer details.
 
 🧱 OOP Concepts Used:
 
