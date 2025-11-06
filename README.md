@@ -33,5 +33,7 @@ Withdraw Class: Handles withdrawal operations and ensures sufficient balance.
 🧑‍💻 Author
 
 Vinay Bollinedi
+
 💼 Passionate Python & OOP Learner | Exploring AI/ML & Cybersecurity
-📧 Feel free to connect on [LinkedIn]:
+
+📧 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/vinay-bollinedi23)
